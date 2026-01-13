@@ -33,4 +33,3 @@ You can find me here:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreya-230&show_icons=true&locale=en&layout=compact" alt="Shreya-230" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreya-230&" alt="  Shreya-230" /></p>
